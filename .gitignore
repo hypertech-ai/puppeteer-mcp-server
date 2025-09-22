@@ -2,10 +2,10 @@
 node_modules/
 
 # Build output
-build/
+# build/
 
-*.js
-*.js.map
+# *.js
+# *.js.map
 
 # Memory Bank
 cline_docs/
